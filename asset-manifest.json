@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Depuhh2k23/tictoe.git/static/css/main.fff93ab4.css",
-    "main.js": "/Depuhh2k23/tictoe.git/static/js/main.94898dc9.js",
-    "static/js/453.ccd39905.chunk.js": "/Depuhh2k23/tictoe.git/static/js/453.ccd39905.chunk.js",
-    "static/media/cross.jpg": "/Depuhh2k23/tictoe.git/static/media/cross.92f73d612e0f36a5c038.jpg",
-    "static/media/circle.jpg": "/Depuhh2k23/tictoe.git/static/media/circle.05a61f78c2db00d8267f.jpg",
-    "index.html": "/Depuhh2k23/tictoe.git/index.html",
-    "main.fff93ab4.css.map": "/Depuhh2k23/tictoe.git/static/css/main.fff93ab4.css.map",
-    "main.94898dc9.js.map": "/Depuhh2k23/tictoe.git/static/js/main.94898dc9.js.map",
-    "453.ccd39905.chunk.js.map": "/Depuhh2k23/tictoe.git/static/js/453.ccd39905.chunk.js.map"
+    "main.css": "/tictoe/static/css/main.fff93ab4.css",
+    "main.js": "/tictoe/static/js/main.da5b8145.js",
+    "static/js/453.ccd39905.chunk.js": "/tictoe/static/js/453.ccd39905.chunk.js",
+    "static/media/cross.jpg": "/tictoe/static/media/cross.92f73d612e0f36a5c038.jpg",
+    "static/media/circle.jpg": "/tictoe/static/media/circle.05a61f78c2db00d8267f.jpg",
+    "index.html": "/tictoe/index.html",
+    "main.fff93ab4.css.map": "/tictoe/static/css/main.fff93ab4.css.map",
+    "main.da5b8145.js.map": "/tictoe/static/js/main.da5b8145.js.map",
+    "453.ccd39905.chunk.js.map": "/tictoe/static/js/453.ccd39905.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fff93ab4.css",
-    "static/js/main.94898dc9.js"
+    "static/js/main.da5b8145.js"
   ]
 }
