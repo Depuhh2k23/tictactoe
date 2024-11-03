@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/tictactoe/static/css/main.fff93ab4.css",
-    "main.js": "/tictactoe/static/js/main.4e822c3a.js",
-    "static/js/453.ccd39905.chunk.js": "/tictactoe/static/js/453.ccd39905.chunk.js",
-    "static/media/cross.jpg": "/tictactoe/static/media/cross.92f73d612e0f36a5c038.jpg",
-    "static/media/circle.jpg": "/tictactoe/static/media/circle.05a61f78c2db00d8267f.jpg",
-    "index.html": "/tictactoe/index.html",
-    "main.fff93ab4.css.map": "/tictactoe/static/css/main.fff93ab4.css.map",
-    "main.4e822c3a.js.map": "/tictactoe/static/js/main.4e822c3a.js.map",
-    "453.ccd39905.chunk.js.map": "/tictactoe/static/js/453.ccd39905.chunk.js.map"
+    "main.css": "/tictoe2/static/css/main.fff93ab4.css",
+    "main.js": "/tictoe2/static/js/main.c123e799.js",
+    "static/js/453.ccd39905.chunk.js": "/tictoe2/static/js/453.ccd39905.chunk.js",
+    "static/media/cross.jpg": "/tictoe2/static/media/cross.92f73d612e0f36a5c038.jpg",
+    "static/media/circle.jpg": "/tictoe2/static/media/circle.05a61f78c2db00d8267f.jpg",
+    "index.html": "/tictoe2/index.html",
+    "main.fff93ab4.css.map": "/tictoe2/static/css/main.fff93ab4.css.map",
+    "main.c123e799.js.map": "/tictoe2/static/js/main.c123e799.js.map",
+    "453.ccd39905.chunk.js.map": "/tictoe2/static/js/453.ccd39905.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fff93ab4.css",
-    "static/js/main.4e822c3a.js"
+    "static/js/main.c123e799.js"
   ]
 }
